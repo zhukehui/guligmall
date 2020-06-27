@@ -1,0 +1,13 @@
+package com.atguigu.guligmall.ware;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GuligmallWareApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
